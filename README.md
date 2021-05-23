@@ -1,3 +1,8 @@
+to check the work
+1. yarn
+2. yarn dev
+deployed app - https://nextjs-blog-sigma-sable-18.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
